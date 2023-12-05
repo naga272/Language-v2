@@ -1,0 +1,6 @@
+// ciaooooo
+
+a = 12 + 14
+b = "ciaone come stai"
+d = 17 + a
+print(a, b, c) // stampa a schermo il risultato di 12 + 14
